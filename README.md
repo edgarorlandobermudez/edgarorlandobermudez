@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 <h1 align="center">Hola, soy <a href="[https://aristi.dev](https://www.linkedin.com/in/edgarorlandobermudez/)">Edgar Orlando Bermudez</a> 👋</h1>
 </div>
