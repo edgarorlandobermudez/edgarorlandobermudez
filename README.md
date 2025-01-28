@@ -1,22 +1,36 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="[https://aristi.dev](https://www.linkedin.com/in/edgarorlandobermudez/)">Edgar Orlando Bermudez</a> 👋</h1>
+  <img src="https://media.licdn.com/dms/image/v2/C5603AQG_z0Rwv7MY9w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516796014367?e=1743638400&v=beta&t=Id3Yv_BpWovnljw96EYWe_VEov1B5vUgTiGcIIxbXQ8" alt="Edgar Orlando Bermudez">
+  <h1>¡Hola 👋, soy <a href="https://www.linkedin.com/in/edgarorlandobermudez/">Edgar Orlando Bermudez</a>!</h1>
+  <p>🔥 DevOps Engineer | SRE especializado en AWS y seguridad en la nube 🔥</p>
 </div>
-<img src="[https://media.licdn.com/dms/image/v2/C5603AQG_z0Rwv7MY9w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516796014367?e=1743638400&v=beta&t=Id3Yv_BpWovnljw96EYWe_VEov1B5vUgTiGcIIxbXQ8">
 
-[![Perfil en linkedin]([(https://www.linkedin.com/in/edgarorlandobermudez/))
+## Sobre Mí
+Soy un apasionado de la tecnología y la automatización. Con experiencia en migración y modernización de infraestructuras cloud, he logrado mejorar significativamente la eficiencia operativa y reducir costos de forma considerable. Me especializo en herramientas como Kubernetes, Terraform y ArgoCD, y tengo un compromiso firme con la seguridad y la optimización de recursos.
 
+### ¿Qué estoy haciendo?
+- 🔭 **Actualmente trabajando en:** Automatización de infraestructuras utilizando Terraform y Kubernetes.
+- 🌱 **Actualmente aprendiendo:** Avanzadas técnicas de monitoreo con Grafana y Prometheus.
+- 👯 **Buscando colaborar en:** Proyectos de código abierto relacionados con DevOps y seguridad.
+- 🤔 **Buscando ayuda con:** Estrategias avanzadas de costos en la nube.
+- 💬 **Pregúntame sobre:** Todo lo relacionado con AWS, Docker, Kubernetes, CI/CD.
+- 📫 **Cómo contactarme:** [LinkedIn](https://www.linkedin.com/in/edgarorlandobermudez/)
+- ⚡ **Dato curioso:** Me encanta participar en hackathons o charlas de ciberseguridad.
 
-## Sobre mi
+## Experiencia Profesional
 
-**edgarorlandobermudez/edgarorlandobermudez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Finkargo
+**DevOps Engineer | SRE**  
+*Julio 2023 - Presente*  
+🚀 **Logros Destacados:**
+- Implementé y desplegué la migración de microservicios desde ECS a EKS, mejorando la eficiencia en ambientes de producción.
+- Reduje los costos en AWS en un 20%, optimizando recursos.
+- Implementé una solución de monitoreo utilizando Grafana, reemplazando DataDog y reduciendo costos en un 80%.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Habilidades Técnicas
+```bash
+Cloud: AWS, GCP, Azure
+CI/CD: Jenkins, GitHub Actions, GitLab
+IaC: Terraform, Ansible, CloudFormation
+Monitoreo: Grafana, Prometheus, ELK Stack
+Seguridad: OWASP, Prowler, IAM Policies
+Programación: Python, Bash, PowerShell
