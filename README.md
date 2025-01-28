@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C5603AQG_z0Rwv7MY9w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516796014367?e=1743638400&v=beta&t=Id3Yv_BpWovnljw96EYWe_VEov1B5vUgTiGcIIxbXQ8" alt="Edgar Orlando Bermudez">
   <h1>¡Hola 👋, soy <a href="https://www.linkedin.com/in/edgarorlandobermudez/">Edgar Orlando Bermudez</a>!</h1>
   <p>🔥 DevOps Engineer | SRE especializado en AWS y seguridad en la nube 🔥</p>
 </div>
