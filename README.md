@@ -34,6 +34,7 @@ Monitoreo: Grafana, Prometheus, ELK Stack
 Seguridad: OWASP, Prowler, IAM Policies
 Programación: Python, Bash, PowerShell
 
+------
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
@@ -69,3 +70,4 @@ Programación: Python, Bash, PowerShell
         <td><img height="40" src="https://skillicons.dev/icons?i=linux,ubuntu,debian"/></td>
     </tr>
 </table>
+------
